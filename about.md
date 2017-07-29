@@ -10,7 +10,7 @@ In 1997, I invented [hashcash](http://hashcash.org) originally as a general proo
 
 I have an interest in privacy enhancing technology, electronic cash.
 
-I am a cypherpunk and believe that positive change in the world is achieved by deploying disruptive technology, that shift the balance of power to the individual, like PGP, Tor, bittorrent, Bitcoin.
+I am a cypherpunk and believe that positive change in the world is achieved by deploying disruptive technologies, that shift the balance of power to the individual, like PGP, Tor, bittorrent, Bitcoin.
 
 I am co-founder and CEO of [blockstream](http://blockstream.com).
 
