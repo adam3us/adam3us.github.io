@@ -3,7 +3,7 @@ layout: post
 title: Talk on Fungibility, Privacy & Identity
 ---
 
-Talk at [Tel Aviv Bitcoin meetup](https://www.meetup.com/bitcoin-il/), Feb 2014, on "Fungibility, Privacy & Identity", watch 
+Talk at [Tel Aviv Bitcoin meetup](https://www.meetup.com/bitcoin-il/), Feb 2014, on "Fungibility, Privacy & Identity" 
 
 {% include youtube.html id="3dAdI3Gzodo" %}
 
