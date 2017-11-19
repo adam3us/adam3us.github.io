@@ -5,8 +5,6 @@ title: Talk on Fungibility, Privacy & Identity
 
 Talk at [Tel Aviv Bitcoin meetup](https://www.meetup.com/bitcoin-il/), Feb 2014, on "Fungibility, Privacy & Identity", watch 
 
-{% include youtube.html id="6EVs0BrG57I" %}
-
 {% include youtube.html id="3dAdI3Gzodo" %}
 
 and slides [are here]({{site.url}}/files/fungibility.pdf). 
