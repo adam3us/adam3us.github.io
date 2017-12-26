@@ -23,10 +23,10 @@ technology adoption.
 
 ![scaling adoption]({{"/files/rollercoaster-rocket.jpg"}})
 
-As an ecosytem inititive there could be a transparent, funded whole ecosystem approach, a commercial and volunteer
-funded part of which would retain some full time project managers and protocol experts available to consult and help 
-integrating scale tech, and a resourced developer and project manager contact at each company or app, site, miner etc and 
-some public tracking of progress.
+The discussion was, as an ecosytem inititive there could be a transparent, funded whole ecosystem approach, a commercial 
+and volunteer funded part of which would retain some full time project managers and protocol experts available to consult 
+and help integrating scale tech, and a resourced developer and project manager contact at each company or app, site, miner etc 
+and some public tracking of progress.  Other more mature open source ecosystems, have this kind of infrastrucure of volunteers and dedicated resources.
 
 With coordination we could also deploy scaling tech that needs network effect to have benefit rapidly - for example tech
 that needs wallet, payment processor and exchange deposit/withdrawal support.
