@@ -62,8 +62,7 @@ Let's see what we can do in 2018. Buckle in, and hodl on, it's sure to be a wild
 
 ps I have made no secret of being against spin-out fork coins on the basis of, good intent aside, I think they hae been
 a confusion to users, a detraction from network effects, not helped ecosystem credibility, and even at the limits risk
-hurting the concept of digital scarcity (which I wrote about a few years ago here 
-https://bitcointalk.org/index.php?topic=911339.0). In practice the forks have so far often also been poorly implemented, 
+hurting the concept of digital scarcity (which I wrote about a few years ago here on [Bitcoinium](https://bitcointalk.org/index.php?topic=911339.0) ). In practice the forks have so far often also been poorly implemented, 
 centrally run, and worse.
 
 But the more serious topic of tradeoffs, everyone understand the interest to scale Bitcoin and see the great features of
