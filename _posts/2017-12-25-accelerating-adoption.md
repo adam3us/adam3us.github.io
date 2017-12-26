@@ -66,6 +66,6 @@ hurting the concept of digital scarcity (which I wrote about a few years ago her
 centrally run, and worse.
 
 But the more serious topic of tradeoffs, everyone understand the interest to scale Bitcoin and see the great features of
-Bitcoin be made available to more everyone, there are certainly lots of nuances to the tradeoffs, and room for respectful 
+Bitcoin be made available to everyone, there are certainly lots of nuances to the tradeoffs, and room for respectful 
 discussion.  I hope we in the Bitcoin ecosystem learned something from 2017's fork experiences. I hope some of the people who got 
 impatient choose to come back and focus on helping scale Bitcoin adoption.
