@@ -50,8 +50,8 @@ We need more commitment to use the large amount of available scale that is left 
 applied to improve scale for the next layer of apps.
 
 Project management and coordination sounds obvious, low tech, but in hindsight insufficient coordination has been a problem. 
-Better information exchange, a commitment to turbo charge the scale of existing tech by efficient use, and push new tech to 
-market faster by coordinated effort and public progress tracking and we can together help Bitcoin achieve it's potential. 
+With better information exchange, a commitment to turbo charge the scale of existing tech by efficient use, and push new tech to 
+market faster by coordinated effort and public progress tracking, we can together help Bitcoin achieve it's potential. 
 
 At higher level, we're also going to reach the potential of Bitcoin faster if the power users using Bitcoin software and 
 hardware, the business community providing services, and the R & D community are exchanging information about technical 
