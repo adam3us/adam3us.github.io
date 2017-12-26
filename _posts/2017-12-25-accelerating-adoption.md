@@ -31,10 +31,10 @@ and some public tracking of progress.  Other more mature open source ecosystems,
 With coordination we could also deploy scaling tech that needs network effect to have benefit rapidly - for example tech
 that needs wallet, payment processor and exchange deposit/withdrawal support.
 
-So I'd like to put this request out there for Bitcoiners, users, hodlers and people who work for Bitcoin's success, whether 
-they are individual Bitcoiners focussed on the societal benefit of uncensorable internet money, companies providing services
-to users, and whether your contribution is as as a marketerer, a developer or managers/company owner or any other contributer: 
-we're in this together.
+So I would like to put this request for a more organised approach to adoption of scaling and best practices out there for
+Bitcoiners, users, hodlers and people who work for Bitcoin's success, whether they are individual Bitcoiners focussed on 
+the societal benefit of uncensorable internet money, companies providing services to users, and whether your contribution 
+is as as a marketerer, a developer or managers/company owner or any other contributer: we're in this together.
 
 Particularly engineers, probably have the power to unilaterally address much of the undershoot of scale potential, even 
 as a skunk works effort inside a company, because code does not write itself, and nothing scales if scale tech and best 
