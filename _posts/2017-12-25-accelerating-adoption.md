@@ -23,10 +23,10 @@ technology adoption.
 
 ![scaling adoption]({{"/files/rollercoaster-rocket.jpg"}})
 
-The discussion was, as an ecosytem initiative there could be a transparent, funded whole ecosystem approach, a commercial 
+The discussion was, as an ecosystem initiative there could be a transparent, funded whole ecosystem approach, a commercial 
 and volunteer funded part of which would retain some full time project managers and protocol experts available to consult 
 and help integrating scale tech, and a resourced developer and project manager contact at each company or app, site, miner etc 
-and some public tracking of progress.  Other more mature open source ecosystems, have this kind of infrastrucure of volunteers and dedicated resources.
+and some public tracking of progress.  Other more mature open source ecosystems, have this kind of infrastructure of volunteers and dedicated resources.
 
 With coordination we could also deploy scaling tech that needs network effect to have benefit rapidly - for example tech
 that needs wallet, payment processor and exchange deposit/withdrawal support.
@@ -34,7 +34,7 @@ that needs wallet, payment processor and exchange deposit/withdrawal support.
 So I would like to put this request for a more organised approach to adoption of scaling and best practices out there for
 Bitcoiners, users, hodlers and people who work for Bitcoin's success, whether they are individual Bitcoiners focussed on 
 the societal benefit of uncensorable internet money, companies providing services to users, and whether your contribution 
-is as as a marketerer, a developer or managers/company owner or any other contributer: we're in this together.
+is as a marketerer, developer or manager, company owner or any other contributer: we're in this together.
 
 Particularly engineers, probably have the power to unilaterally address much of the undershoot of scale potential, even 
 as a skunk works effort inside a company, because code does not write itself, and nothing scales if scale tech and best 
@@ -51,7 +51,7 @@ applied to improve scale for the next layer of apps.
 
 Project management and coordination sounds obvious, low tech, but in hindsight insufficient coordination has been a problem. 
 With better information exchange, a commitment to turbo charge the scale of existing tech by efficient use, and push new tech to 
-market faster by coordinated effort and public progress tracking, we can together help Bitcoin achieve it's potential. 
+market faster by coordinated effort and public progress tracking, we can together help Bitcoin achieve its potential. 
 
 At higher level, we're also going to reach the potential of Bitcoin faster if the power users using Bitcoin software and 
 hardware, the business community providing services, and the R & D community are exchanging information about technical 
