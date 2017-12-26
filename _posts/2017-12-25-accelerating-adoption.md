@@ -12,11 +12,11 @@ Bitcoin market demand is high, and resources are straining which may slow Bitcoi
 see the Bitcoin experience on usability, transaction speed, transaction cost, security all improved, and reasonably soon. 
 
 None of these side-effects of high demand are designed - they arise from run away market success bumping into technology 
-limits. I think our best bet is to improve coordination and resources on scaling the tech limits, and on accelerating 
-adoption of best practices and scaling tech that is available today, and as well preparing for scaling tech that is
-imminent, and planning ahead for the future.
+limits. I think our best bet is to improve coordination and resources on scaling the tech limits, on accelerating 
+adoption of best practices and scaling tech that is available today, preparing for scaling tech that is
+imminent and planning ahead for the future.
 
-I had suggested before one of the forks, to people in private email threads that it was time for a grand challenge to scale 
+I had suggested before one of the forks, to people in private email threads that it may be time for a grand challenge to scale 
 Bitcoin adoption. Many seemed supportive of the idea. If one wanted to be bombastic one would talk about getting to a billion 
 users in 2018, though that would be quite a target. One that might involve some novel thinking, some coding and quite a bit of 
 technology adoption.
