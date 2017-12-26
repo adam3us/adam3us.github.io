@@ -23,7 +23,7 @@ technology adoption.
 
 ![scaling adoption]({{"/files/rollercoaster-rocket.jpg"}})
 
-The discussion was, as an ecosytem inititive there could be a transparent, funded whole ecosystem approach, a commercial 
+The discussion was, as an ecosytem initiative there could be a transparent, funded whole ecosystem approach, a commercial 
 and volunteer funded part of which would retain some full time project managers and protocol experts available to consult 
 and help integrating scale tech, and a resourced developer and project manager contact at each company or app, site, miner etc 
 and some public tracking of progress.  Other more mature open source ecosystems, have this kind of infrastrucure of volunteers and dedicated resources.
