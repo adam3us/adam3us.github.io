@@ -3,7 +3,7 @@ layout: post
 title: Accelerating Bitcoin Adoption
 ---
 
-Some personal thoughts on accelerating Bitcoin adoption as we get close to the end of 2017, an interesting and dramatic year of user adoption and events for Bitcoin.
+Some personal thoughts on accelerating Bitcoin adoption as we get close to the end of 2017, an interesting and dramatic year of user adoption and events for Bitcoin, to say nothing of the market growth!
 
 This time of year is sometimes a time when people pause to reflect on collaborative spirit, and Bitcoin is a friendly 
 industry and ecosystem where almost all of the competition is from outside - fiat, banks etc.
