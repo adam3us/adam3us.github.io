@@ -21,7 +21,7 @@ Bitcoin adoption. Many seemed supportive of the idea. If one wanted to be bombas
 users in 2018, though that would be quite a target. One that might involve some novel thinking, some coding and quite a bit of 
 technology adoption.
 
-![scaling adoption]({{site.url}}/files/roller-coaster-rocket.jpg)
+![scaling adoption]({{"/files/rollercoaster-rocket.jpg")})
 
 As an ecosytem inititive there could be a transparent, funded whole ecosystem approach, a commercial and volunteer
 funded part of which would retain some full time project managers and protocol experts available to consult and help 
