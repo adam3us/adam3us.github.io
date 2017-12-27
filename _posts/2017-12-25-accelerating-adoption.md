@@ -65,7 +65,7 @@ a confusion to users, a small detraction from network effects, have not helped e
 hurting the concept of digital scarcity (which I wrote about a few years ago here on [Bitcoinium](https://bitcointalk.org/index.php?topic=911339.0) ). In practice the forks have so far often also been poorly implemented, 
 centrally run, and worse.
 
-But the more serious topic of tradeoffs, everyone understands the interest to scale Bitcoin and see the great features of
+But on the more serious topic of tradeoffs, everyone understands the interest to scale Bitcoin and see the great features of
 Bitcoin be made available to everyone, there are certainly lots of nuances to the tradeoffs, and room for respectful 
 discussion.  I hope we in the Bitcoin ecosystem learned something from 2017's fork experiences. I hope some of the people who got 
 impatient choose to come back and focus on helping scale Bitcoin adoption.
