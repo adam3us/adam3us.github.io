@@ -27,9 +27,8 @@ transport [FIBRE](https://bitcoinfibre.org) protocol.  So the question was phras
 The answer counter-intuitively is no!  The reason this works is the bitcoin blockchain is a proof-of-work authenticated chain,
 it is secure because you personally can verify the blocks are correct by running a fullnode, and verifying that you are receiving the corrrect version of the blockchain by sticking to the most-work valid chain version.
 
-In normal operaation a bitcoin fullnode joins a peer to peer network, with typically 8 peer connections - consider the
-related question if one of those connections was 100Mbit and the other 7 connections were 10kbit connections would you be 
-reliant on the fast connection?  The answer is no because you would see the discrepency as headers are exchanged and 
+In normal operation a fullnode joins the Bitcoin peer to peer network, with typically 8 peer connections - consider the
+related question if one of those connections was a fast 100Mbit and the other 7 connections were slow 10kbit connections - would you be trusting the fast connection?  The answer is no because you would see the discrepency as headers are exchanged and 
 then data - so your fullnode would refuse to follow a less work chain even if the faster node was confused or malicious.
 
 The trust model is the same with the blocksat - users can and should verify the blockchain via other slower / more expensive channels.  For example check blockheaders via GPRS data, via SMS etc.  The headers are enough to verify the proof of work, 
