@@ -14,7 +14,7 @@ and on this Bloomberg interview - fun to interject the motivation discussion for
 
 {% include youtube.html id="EIHn1n4et38" time="1213" %}
 
-[skip to 14mins20secs in](https://www.youtube.com/watch?v=EIHn1n4et38&t=14m20s).
+skip to 14mins 20secs [youtube](https://www.youtube.com/watch?v=EIHn1n4et38&t=14m20s)
 
 But one more subtle question I was asked at the [HODL HODL conference]({% post_url 2017-11-25-hodlhodl-riga %}) 
 in Riga, Latvia was do users of the blocksat have to trust the transaction and blockchain data received via it.  In fact satellites are for the most part quite simplistic, in beaming down signals beamed up at them, so that the intelligence 
