@@ -3,24 +3,21 @@ layout: post
 title: Don't trust, verify.
 ---
 
-
-
-
-With the launch of the ![blockstream bitcoin satellite]({{https://blockstream.com/satellite/}}) service from Aug 2017  
+With the launch of the [blockstream bitcoin satellite](https://blockstream.com/satellite/) service from Aug 2017  
 
 {% include youtube.html id="lbx7NAnVeGc" %}
 
 a number of new use-cases for Bitcoin started to become possible, at radically lower cost, globally and with better privacy.  
-Some of the use cases were discussed on [blockstream's blog]({{https://blockstream.com/2017/08/15/announcing-blockstream-satellite.html}})
-and on Bloomberg interview - fun to interject the motivation discussion for fullnodes onto a financial news show.
+Some of the use cases were discussed on [blockstream's blog](https://blockstream.com/2017/08/15/announcing-blockstream-satellite.html) 
+and on this Bloomberg interview - fun to interject the motivation discussion for fullnodes onto a financial news show.
 
-{% include youtube.html id="EIHn1n4et38" t="1213" %}
+{% include youtube.html id="EIHn1n4et38" time="1213" %}
 
 But one more subtle question I was asked at the [HODL HODL conference]({% post_url 2017-11-25-hodlhodl-riga %}) 
 in Riga, Latvia was do users of the blocksat have to trust the transaction and blockchain data received via it.  In fact satellites are for the most part quite simplistic, in beaming down signals beamed up at them, so that the intelligence 
 is in the teleport (the uplink ground station).
-For the blocksat the uplinks run a fullnode connected via [Matt Corallo's]({{https://twitter.com/thebluematt}}) fast block 
-transport [FIBRE]({{https://bitcoinfibre.org}}).  So the question was phrased as do users who receive bitcoin data via the blocksat have to trust the uplink Bitcoin fullnode operated by blockstream.
+For the blocksat the uplinks run a fullnode connected via [Matt Corallo's](https://twitter.com/thebluematt) fast block 
+transport [FIBRE](https://bitcoinfibre.org).  So the question was phrased as do users who receive bitcoin data via the blocksat have to trust the uplink Bitcoin fullnode operated by blockstream.
 
 ![telstar11n]({{"/files/telstar11n.jpg"}})
 
